@@ -1,1 +1,1 @@
-Test file. It has been changed.
+Test file. It has been changed. Now used authentication.
